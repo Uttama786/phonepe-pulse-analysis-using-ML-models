@@ -49,7 +49,7 @@ This project analyzes the PhonePe Pulse dataset to uncover insights about digita
 
 ```bash
 # Clone the repository
-git clone https://github.com/Uttama786/phonepe-pulse-analysis.git
+git clone https://github.com/Uttama786/phonepe-pulse-analysis-using-ML-models.git
 cd phonepe-pulse-analysis
 
 # Install required packages
